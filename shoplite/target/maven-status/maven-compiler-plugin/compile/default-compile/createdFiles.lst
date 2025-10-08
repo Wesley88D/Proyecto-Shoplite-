@@ -1,0 +1,10 @@
+com\wlopez\shoplite\controllers\AdminServlet.class
+com\wlopez\shoplite\controllers\LoginServlet.class
+com\wlopez\shoplite\repositories\ProductRepository.class
+com\wlopez\shoplite\controllers\HomeServlet.class
+com\wlopez\shoplite\models\User.class
+com\wlopez\shoplite\controllers\LogoutServlet.class
+com\wlopez\shoplite\repositories\UserRepository.class
+com\wlopez\shoplite\filters\AdminFilter.class
+com\wlopez\shoplite\filters\AuthFilter.class
+com\wlopez\shoplite\models\Product.class
